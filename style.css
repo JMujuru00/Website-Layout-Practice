@@ -78,6 +78,8 @@ html, body {
 
 .green {
     width: 100%;
+    position: fixed;
+    top: 0;
 }
 
 .header-links{
